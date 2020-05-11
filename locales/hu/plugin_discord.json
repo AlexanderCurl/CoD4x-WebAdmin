@@ -1,26 +1,26 @@
 {
     "cheater_reports_msg": {
-        "msg_title": "New Cheater Report",
-        "message": "{{getUserName}} reported {{getReportedPlayer}} as Cheater! For more details visit {{get_website}}!"
+        "msg_title": "új csaló jelentés",
+        "message": "{{getUserName}} jelentette {{getReportedPlayer}}-t hogy csal! Továbbiakban látogass el ide: {{get_website}}!"
     },
 
     "unban_request_msg": {
-        "msg_title": "New Unban Request",
-        "message": "New Unban Request sent by {{getUserName}}! For more details visit {{get_website}}!"
+        "msg_title": "Ban levétel kérés érkezett",
+        "message": "Új ban levétel kérés érkezett {{getUserName}}-tól! Továbbiakban látogass el ide: {{get_website}}!"
     },
 
     "new_admin_application_msg": {
-        "msg_title": "New Admin Application",
-        "message": "{{getUserName}} sent a new Admin Application! For more details visit {{get_website}}!"
+        "msg_title": "Új Admin felvételi kérés érkezett",
+        "message": "{{getUserName}} jelentkezett adminisztrátornak! Továbbiakban látogass el ide: {{get_website}}!"
     },
 
     "new_admin_added_msg": {
-        "msg_title": "We have a New Server Admin",
-        "message": "Congratulations {{getUserName}} !!! Welcome to {{get_website}}!"
+        "msg_title": "Új Szerver Admin",
+        "message": "Gratulálunk {{getUserName}} !!!"
     },
 
     "new_admin_conversation": {
-        "msg_title": "New Admin Conversation Started",
-        "message": "{{getUserName}} started a new Admin Conversation. Help Us to make the right Decision! If you have Admin Rights visit {{get_website}}!"
+        "msg_title": "Új Admin megbeszélés",
+        "message": "{{getUserName}} új Admin megbeszélést kezdeményezett. Segíts nekünk meghozni a helyes döntést! Ha Admin vagy, kérlek látogass el ide: {{get_website}}!"
     }
 }

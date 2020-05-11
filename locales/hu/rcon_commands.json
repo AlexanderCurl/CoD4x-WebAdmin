@@ -22,12 +22,12 @@
     },
 
     "input_select_time": {
-        "m": "minute",
-        "h": "hour",
-        "d": "day",
-        "mm": "minutes",
-        "hh": "hours",
-        "dd": "days"
+        "m": "perc",
+        "h": "óra",
+        "d": "nap",
+        "mm": "perc",
+        "hh": "óra",
+        "dd": "nap"
     },
 
     "RconConsoleCommand": {

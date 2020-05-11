@@ -1,9 +1,9 @@
 {
     "footer": {
-        "footer_rights": "© All rights reserved"
+        "footer_rights": "© Minden jog fenttarva!"
     },
 
     "loading": {
-        "loading_message": "Please wait"
+        "loading_message": "Kérem várjon"
     }
 }
